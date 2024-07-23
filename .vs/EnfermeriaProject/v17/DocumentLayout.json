@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|c:\\users\\sistemaspc\\documents\\personal projects\\enfermeriaproject\\enfermeriaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|solutionrelative:enfermeriaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45FB1BBD-2693-4987-96E0-E5FC2D0E7D64}|NurseProyect.DataAcces\\NurseProyect.DataAcces.csproj|c:\\users\\sistemaspc\\documents\\personal projects\\enfermeriaproject\\nurseproyect.dataacces\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FB1BBD-2693-4987-96E0-E5FC2D0E7D64}|NurseProyect.DataAcces\\NurseProyect.DataAcces.csproj|solutionrelative:nurseproyect.dataacces\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|c:\\users\\sistemaspc\\documents\\personal projects\\enfermeriaproject\\enfermeriaproject\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|solutionrelative:enfermeriaproject\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45FB1BBD-2693-4987-96E0-E5FC2D0E7D64}|NurseProyect.DataAcces\\NurseProyect.DataAcces.csproj|c:\\users\\sistemaspc\\documents\\personal projects\\enfermeriaproject\\nurseproyect.dataacces\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FB1BBD-2693-4987-96E0-E5FC2D0E7D64}|NurseProyect.DataAcces\\NurseProyect.DataAcces.csproj|solutionrelative:nurseproyect.dataacces\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|c:\\users\\sistemaspc\\documents\\personal projects\\enfermeriaproject\\enfermeriaproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|solutionrelative:enfermeriaproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|c:\\users\\sistemaspc\\documents\\personal projects\\enfermeriaproject\\enfermeriaproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|solutionrelative:enfermeriaproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|c:\\users\\sistemaspc\\documents\\personal projects\\enfermeriaproject\\enfermeriaproject\\enfermeriaproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}|EnfermeriaProject\\EnfermeriaProject.csproj|solutionrelative:enfermeriaproject\\enfermeriaproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\BD\\BD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BD\\BD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\BD\\BD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BD\\BD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "NurseProyect.DataAcces\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "NurseProyect.DataAcces\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwFoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:45:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NurseProyect.DataAcces\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NurseProyect.DataAcces\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:45:38.77Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "EnfermeriaProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "EnfermeriaProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T21:15:14.175Z",
+              "DocumentIndex": 3,
+              "Title": "BD.sql ",
+              "DocumentMoniker": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\BD\\BD.sql",
+              "RelativeDocumentMoniker": "BD\\BD.sql",
+              "ToolTip": "BD.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-21T21:26:22.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EnfermeriaProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EnfermeriaProject\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T20:59:39.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\Program.cs",
-              "RelativeDocumentMoniker": "EnfermeriaProject\\Program.cs",
-              "ToolTip": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\Program.cs*",
-              "RelativeToolTip": "EnfermeriaProject\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T20:59:09.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EnfermeriaProject",
-              "DocumentMoniker": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\EnfermeriaProject.csproj",
-              "RelativeDocumentMoniker": "EnfermeriaProject\\EnfermeriaProject.csproj",
-              "ToolTip": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\EnfermeriaProject.csproj*",
-              "RelativeToolTip": "EnfermeriaProject\\EnfermeriaProject.csproj*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T20:51:41.911Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnfermeriaProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EnfermeriaProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T21:24:27.333Z",
               "EditorCaption": ""
             }
           ]
