@@ -1,4 +1,4 @@
-namespace EnfermeriaProject.Models
+namespace EnfermeriaProject.Models.Models
 {
     public class ErrorViewModel
     {

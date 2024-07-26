@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnfermeriaProject", "EnfermeriaProject\EnfermeriaProject.csproj", "{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnfermeriaProject", "EnfermeriaProject\EnfermeriaProject.csproj", "{C30034FF-8B3F-42D7-8456-0E04A0B59FF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseProyect.DataAcces", "NurseProyect.DataAcces\NurseProyect.DataAcces.csproj", "{45FB1BBD-2693-4987-96E0-E5FC2D0E7D64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnfermeriaProject.DataAcces", "NurseProyect.DataAcces\EnfermeriaProject.DataAcces.csproj", "{45FB1BBD-2693-4987-96E0-E5FC2D0E7D64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseProyect.Models", "NurseProyect.Models\NurseProyect.Models.csproj", "{EDD13387-192C-4AE2-B7F3-A050437F4334}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnfermeriaProject.ViewModel", "NurseProyect.Models\EnfermeriaProject.ViewModel.csproj", "{EDD13387-192C-4AE2-B7F3-A050437F4334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseProyect.Utilities", "NurseProyect.Utilities\NurseProyect.Utilities.csproj", "{AD5AB22A-70B1-4BB8-8FF4-22B9EA62E34F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnfermeriaProject.Utilities", "NurseProyect.Utilities\EnfermeriaProject.Utilities.csproj", "{AD5AB22A-70B1-4BB8-8FF4-22B9EA62E34F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

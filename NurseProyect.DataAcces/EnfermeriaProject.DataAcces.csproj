@@ -11,4 +11,13 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\Migrations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NurseProyect.Models\EnfermeriaProject.ViewModel.csproj" />
+    <ProjectReference Include="..\NurseProyect.Utilities\EnfermeriaProject.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>

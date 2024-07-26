@@ -1,11 +1,12 @@
-using EnfermeriaProject.Models;
+using EnfermeriaProject.Models.Models;
 
 using Microsoft.AspNetCore.Mvc;
 
 using System.Diagnostics;
 
-namespace EnfermeriaProject.Controllers
+namespace EnfermeriaProject.Areas.Medicamentos.Controllers
 {
+    [Area("Medicamentos")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

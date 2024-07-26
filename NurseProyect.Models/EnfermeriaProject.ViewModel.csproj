@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NurseProyect.Utilities\EnfermeriaProject.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>
