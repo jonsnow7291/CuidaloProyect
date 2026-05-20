@@ -18,9 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NurseProyect.DataAcces\EnfermeriaProject.DataAcces.csproj" />
-    <ProjectReference Include="..\NurseProyect.Models\EnfermeriaProject.ViewModel.csproj" />
-    <ProjectReference Include="..\NurseProyect.Utilities\EnfermeriaProject.Utilities.csproj" />
+    <ProjectReference Include="..\EnfermeriaProject.DataAccess\EnfermeriaProject.DataAccess.csproj" />
+    <ProjectReference Include="..\EnfermeriaProject.Models\EnfermeriaProject.Models.csproj" />
+    <ProjectReference Include="..\EnfermeriaProject.Utilities\EnfermeriaProject.Utilities.csproj" />
   </ItemGroup>
 
   <ItemGroup>

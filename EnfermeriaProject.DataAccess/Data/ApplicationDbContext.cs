@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace EnfermeriaProject.EnfermeriaProyect.DataAcces.Data;
+namespace EnfermeriaProject.DataAccess.Data;
 
 public class ApplicationDbContext : IdentityDbContext
 {

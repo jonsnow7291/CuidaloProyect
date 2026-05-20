@@ -1,5 +1,5 @@
 using EnfermeriaProject;
-using EnfermeriaProject.EnfermeriaProyect.DataAcces.Data;
+using EnfermeriaProject.DataAccess.Data;
 
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
