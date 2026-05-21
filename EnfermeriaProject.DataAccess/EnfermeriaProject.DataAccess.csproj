@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NurseProyect.Models\EnfermeriaProject.ViewModel.csproj" />
-    <ProjectReference Include="..\NurseProyect.Utilities\EnfermeriaProject.Utilities.csproj" />
+    <ProjectReference Include="..\EnfermeriaProject.Models\EnfermeriaProject.Models.csproj" />
+    <ProjectReference Include="..\EnfermeriaProject.Utilities\EnfermeriaProject.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

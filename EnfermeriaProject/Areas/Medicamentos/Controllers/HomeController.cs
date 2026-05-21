@@ -1,4 +1,4 @@
-using EnfermeriaProject.Models.Models;
+using EnfermeriaProject.Models;
 
 using Microsoft.AspNetCore.Mvc;
 
