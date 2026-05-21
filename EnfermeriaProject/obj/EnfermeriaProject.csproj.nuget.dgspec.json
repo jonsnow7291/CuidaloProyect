@@ -1,44 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\EnfermeriaProject.csproj": {}
+    "/app/EnfermeriaProject/EnfermeriaProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\EnfermeriaProject.csproj": {
+    "/app/EnfermeriaProject/EnfermeriaProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\EnfermeriaProject.csproj",
+        "projectUniqueName": "/app/EnfermeriaProject/EnfermeriaProject.csproj",
         "projectName": "EnfermeriaProject",
-        "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\EnfermeriaProject.csproj",
-        "packagesPath": "C:\\Users\\SISTEMASPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\EnfermeriaProject\\obj\\",
+        "projectPath": "/app/EnfermeriaProject/EnfermeriaProject.csproj",
+        "packagesPath": "/home/jules/.nuget/packages/",
+        "outputPath": "/app/EnfermeriaProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SISTEMASPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jules/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/v3/index.json": {},
-          "https://saturno.minsalud.gov.co/tfs/DefaultCollection/_packaging/SISPRO.TRV/nuget/v3/index.json": {}
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\EnfermeriaProject.DataAcces.csproj": {
-                "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\EnfermeriaProject.DataAcces.csproj"
+              "/app/NurseProyect.DataAcces/EnfermeriaProject.DataAcces.csproj": {
+                "projectPath": "/app/NurseProyect.DataAcces/EnfermeriaProject.DataAcces.csproj"
               },
-              "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Models\\EnfermeriaProject.ViewModel.csproj": {
-                "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Models\\EnfermeriaProject.ViewModel.csproj"
+              "/app/NurseProyect.Models/EnfermeriaProject.ViewModel.csproj": {
+                "projectPath": "/app/NurseProyect.Models/EnfermeriaProject.ViewModel.csproj"
               },
-              "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj": {
-                "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj"
+              "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj": {
+                "projectPath": "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj"
               }
             }
           }
@@ -52,7 +48,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -98,6 +95,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.24, 8.0.24]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -106,42 +109,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\EnfermeriaProject.DataAcces.csproj": {
+    "/app/NurseProyect.DataAcces/EnfermeriaProject.DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\EnfermeriaProject.DataAcces.csproj",
+        "projectUniqueName": "/app/NurseProyect.DataAcces/EnfermeriaProject.DataAcces.csproj",
         "projectName": "EnfermeriaProject.DataAcces",
-        "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\EnfermeriaProject.DataAcces.csproj",
-        "packagesPath": "C:\\Users\\SISTEMASPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.DataAcces\\obj\\",
+        "projectPath": "/app/NurseProyect.DataAcces/EnfermeriaProject.DataAcces.csproj",
+        "packagesPath": "/home/jules/.nuget/packages/",
+        "outputPath": "/app/NurseProyect.DataAcces/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SISTEMASPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jules/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/v3/index.json": {},
-          "https://saturno.minsalud.gov.co/tfs/DefaultCollection/_packaging/SISPRO.TRV/nuget/v3/index.json": {}
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Models\\EnfermeriaProject.ViewModel.csproj": {
-                "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Models\\EnfermeriaProject.ViewModel.csproj"
+              "/app/NurseProyect.Models/EnfermeriaProject.ViewModel.csproj": {
+                "projectPath": "/app/NurseProyect.Models/EnfermeriaProject.ViewModel.csproj"
               },
-              "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj": {
-                "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj"
+              "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj": {
+                "projectPath": "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj"
               }
             }
           }
@@ -155,7 +154,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -186,39 +186,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Models\\EnfermeriaProject.ViewModel.csproj": {
+    "/app/NurseProyect.Models/EnfermeriaProject.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Models\\EnfermeriaProject.ViewModel.csproj",
+        "projectUniqueName": "/app/NurseProyect.Models/EnfermeriaProject.ViewModel.csproj",
         "projectName": "EnfermeriaProject.ViewModel",
-        "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Models\\EnfermeriaProject.ViewModel.csproj",
-        "packagesPath": "C:\\Users\\SISTEMASPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Models\\obj\\",
+        "projectPath": "/app/NurseProyect.Models/EnfermeriaProject.ViewModel.csproj",
+        "packagesPath": "/home/jules/.nuget/packages/",
+        "outputPath": "/app/NurseProyect.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SISTEMASPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jules/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/v3/index.json": {},
-          "https://saturno.minsalud.gov.co/tfs/DefaultCollection/_packaging/SISPRO.TRV/nuget/v3/index.json": {}
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj": {
-                "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj"
+              "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj": {
+                "projectPath": "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj"
               }
             }
           }
@@ -232,7 +228,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -253,32 +250,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj": {
+    "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj",
+        "projectUniqueName": "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj",
         "projectName": "EnfermeriaProject.Utilities",
-        "projectPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\EnfermeriaProject.Utilities.csproj",
-        "packagesPath": "C:\\Users\\SISTEMASPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SISTEMASPC\\Documents\\Personal Projects\\EnfermeriaProject\\NurseProyect.Utilities\\obj\\",
+        "projectPath": "/app/NurseProyect.Utilities/EnfermeriaProject.Utilities.csproj",
+        "packagesPath": "/home/jules/.nuget/packages/",
+        "outputPath": "/app/NurseProyect.Utilities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SISTEMASPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jules/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/v3/index.json": {},
-          "https://saturno.minsalud.gov.co/tfs/DefaultCollection/_packaging/SISPRO.TRV/nuget/v3/index.json": {}
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -295,7 +288,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -316,7 +310,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
